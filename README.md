@@ -52,8 +52,3 @@ This will automatically start a local server and open the app in your default we
 
 * Python 3.11+
 
----
-
-## 🔗 Project Links
-
-- 📂 [Source Code](https://github.com/NilavoBoral/mcp-bot)
