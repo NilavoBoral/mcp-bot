@@ -1,6 +1,6 @@
 # 🤖 MCP Bot
 
-An interactive chat UI for interacting with your MCP Tools using Language models.
+An interactive chat UI for communicating with your MCP Tools using Language models.
 MCP Bot makes it simple to connect to an MCP endpoint, configure your model, and start chatting with intelligent agent tools — all from a friendly, browser-based interface.
 
 ## ✨ Features
@@ -12,6 +12,10 @@ This makes it easy to test protected or authenticated MCP tools directly from th
 * **System Message Support:** Dynamically update the system prompt to guide your agent’s behavior.
 * **Chat with MCP Agents:** Interactively communicate with tools served through MCP using a conversational interface.
 
+## 🆕 New Feature
+* **View Tools:** You can now easily check the available tools using the **"View Tools"** button.
+This feature allows you to review all tools before starting a chat.
+
 ---
 
 ### 🚀 Installation
@@ -21,6 +25,18 @@ You can install `mcp-bot` directly from PyPI.
 ```bash
 pip install mcp-bot
 ```
+
+---
+
+### 🔄 Updating
+
+To update `mcp-bot` to the latest version, simply run:
+
+```bash
+pip install --upgrade mcp-bot
+```
+
+This will ensure you have the newest features, improvements, and bug fixes.
 
 ---
 
@@ -52,3 +68,8 @@ This will automatically start a local server and open the app in your default we
 
 * Python 3.11+
 
+---
+
+## 🔗 Project Links
+
+- 📂 [Source Code](https://github.com/NilavoBoral/mcp-bot)
