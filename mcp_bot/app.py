@@ -11,9 +11,9 @@ import nest_asyncio
 nest_asyncio.apply()
 
 # UI layout
-st.set_page_config(page_title="MCP Agent", page_icon="🤖", layout="wide")
+st.set_page_config(page_title="MCP-Bot", page_icon="🤖", layout="wide")
 
-st.sidebar.title("🤖 MCP Agent Chatbot")
+st.sidebar.title("🤖 MCP-Bot")
 
 # --- Main content ---
 st.markdown('<div class="main-content">', unsafe_allow_html=True)
