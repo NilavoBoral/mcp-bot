@@ -2,10 +2,10 @@ from setuptools import setup, find_packages
 
 setup(
     name='mcp-bot',
-    version='0.1.0',
+    version='0.1.1',
     author='Nilavo Boral',
     author_email='nilavoboral@gmail.com',
-    description='A Streamlit-based chat UI for interacting with MCP Agents using Gemini models.',
+    description='An interactive chat UI for communicating with your MCP Tools via AI Agents.',
     long_description=open("README.md", encoding="utf-8").read(),
     long_description_content_type='text/markdown',
     url="https://github.com/NilavoBoral/mcp-bot",
